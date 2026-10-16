@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @carlosanb13
-- 👀 I’m interested in codifing and design web pages
-- 🌱 I’m currently learning in Platzi
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hola, soy Carlos 👋
 
-<!---
-carlosanb13/carlosanb13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Me gusta crear proyectos que unen tecnología, diseño e inteligencia artificial. Exploro formas de convertir ideas en experiencias digitales útiles y contenido visual bien cuidado.
+
+### En qué estoy trabajando
+
+- 🤖 Herramientas y flujos de trabajo con IA
+- 🎨 Creación de contenido e imágenes para proyectos y marcas
+- 💻 Desarrollo y mejora de experiencias web
+
+### Me interesa colaborar en
+
+Proyectos donde la tecnología ayude a resolver problemas reales o a comunicar mejor una idea.
+
+---
+*Siempre aprendiendo, experimentando y construyendo.*
