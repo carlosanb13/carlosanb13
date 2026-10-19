@@ -1,16 +1,17 @@
-# Hola, soy Carlos 👋
+# Hola, soy Carlos
 
-Me gusta crear proyectos que unen tecnología, diseño e inteligencia artificial. Exploro formas de convertir ideas en experiencias digitales útiles y contenido visual bien cuidado.
+Estudiante de Ingeniería de Sistemas (Universidad Piloto de Colombia, Seccional Alto Magdalena), en búsqueda de mi práctica empresarial.
 
-### En qué estoy trabajando
+Diseño e implemento sistemas de punto de venta para pequeños negocios: pedidos desde el celular, comandas impresas en tiempo real, y facturación e inventario que funcionan sin internet.
 
-- 🤖 Herramientas y flujos de trabajo con IA
-- 🎨 Creación de contenido e imágenes para proyectos y marcas
-- 💻 Desarrollo y mejora de experiencias web
+### Qué hago
 
-### Me interesa colaborar en
+Entiendo cómo trabaja el negocio y defino los requisitos con el cliente. Monto la red local y las impresoras térmicas. Pongo el sistema en producción y doy soporte. Uso herramientas de IA para acelerar el desarrollo.
 
-Proyectos donde la tecnología ayude a resolver problemas reales o  a comunicar mejor una idea.
+### Tecnologías
 
----
-*Siempre aprendiendo, experimentando y construyendo.*
+Node.js, Express, Socket.IO, MySQL, SQLite, JavaScript, HTML5, CSS3, Git
+
+### Contacto
+
+LinkedIn: https://www.linkedin.com/in/carlos-andr%C3%A9s-betancur-urue%C3%B1a-977235225/
