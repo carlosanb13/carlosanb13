@@ -2,13 +2,13 @@
 
 Estudiante de Ingeniería de Sistemas (Universidad Piloto de Colombia, Seccional Alto Magdalena), en búsqueda de mi práctica empresarial.
 
-Diseño e implemento sistemas de punto de venta para pequeños negocios: pedidos desde el celular, comandas impresas en tiempo real, y facturación e inventario que funcionan sin internet.
+Desde junio de 2026 implemento sistemas de punto de venta para pequeños negocios: pedidos desde el celular, comandas impresas en tiempo real, y facturación e inventario que funcionan sin internet.
 
-### Qué hago
+### Cómo trabajo
 
-Entiendo cómo trabaja el negocio y defino los requisitos con el cliente. Monto la red local y las impresoras térmicas. Pongo el sistema en producción y doy soporte. Uso herramientas de IA para acelerar el desarrollo.
+Desarrollo con herramientas de inteligencia artificial. Mi trabajo es entender cómo opera el negocio, definir lo que el sistema debe hacer, dirigir el desarrollo, probarlo, montar la red local y las impresoras térmicas, y dejarlo estable en producción con soporte posterior.
 
-### Tecnologías
+### Tecnologías de los sistemas que implemento
 
 Node.js, Express, Socket.IO, MySQL, SQLite, JavaScript, HTML5, CSS3, Git
 
